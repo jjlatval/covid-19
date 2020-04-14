@@ -53,7 +53,7 @@ to be fit to a ML model (and in case the 'recipe' for composing a document may v
 
 ## How to setup
 
-1. Clone the repository: `git clone ...`
+1. Clone the repository: `git clone https://github.com/jjlatval/covid-19.git`
 2. Extract CORD-19 challenge dataset to cloned repository directory.
 3. Initiate virtualenv: `virtualenv venv -p python3`
 4. Activate created virtualenv: `source venv/bin/activate`
