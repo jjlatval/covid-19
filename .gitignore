@@ -1,0 +1,16 @@
+.idea/
+.ipynb_checkpoints/
+*.pdf
+*.pyc
+*.model
+*.npy
+json_schema.txt
+metadata.csv
+metadata.readme
+biorxiv_medrvix/*
+venv/
+biorxiv_medrxiv/
+comm_use_subset/
+cord19_specter_embeddings_2020-04-10/
+custom_license/
+noncomm_use_subset/
