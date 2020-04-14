@@ -64,7 +64,7 @@ to be fit to a ML model (and in case the 'recipe' for composing a document may v
 
 1. Simply run: `python make_model.py`
 
-## How to run research queries (Jupyter notebook)
+## How to run research queries
 
 1. Run queries: `python run_queries.py`
 
